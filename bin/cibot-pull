@@ -38,7 +38,7 @@ if len(sys.argv) > 1:
     branch_target = sys.argv[1]
 
 # This is my current team the "tpf team".
-team = '@Andy Moon @Garry Polley @Gurba Baby @Scott Dillender @Matt Hoag'
+team = '@Andy Moon @Garry Polley @Chris Gurba @Scott Dillender @Matt Hoag'
 other_team = '<@chrisstein> <@thomas.carroll> <@jeffstephens> <@jonathanstacks>'
 
 whole_team = team + ' ' + other_team
